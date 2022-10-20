@@ -15,7 +15,7 @@ Temuulen Narmandakh</a></h1>
 
 - 🌱 I’m currently learning JavaScript && AWS
 
-- 📫 How to reach me **temkanibno@gmail.com**
+- 📫 How to reach me **temuulen.n@pinecone.mn**
 
 ---
 
