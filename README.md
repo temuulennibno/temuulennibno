@@ -18,7 +18,7 @@ Temuulen Narmandakh</a></h1>
 - 📫 How to reach me **temuulen.n@pinecone.mn**
 
 ---
-
+![Temuulen's GitHub stats](https://github-readme-stats.vercel.app/api?username=temuulennibno&show_icons=true&theme=radical)
 
 <h2 align="center">
 Technologies and Languages </h2>
