@@ -22,5 +22,8 @@ Temuulen Narmandakh</h1>
 
 <h2 align="center">
 Technologies and Languages </h2>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,nginx,react,react-native,linux)](https://skillicons.dev)
+
+![My Skills](https://skillicons.dev/icons?i=js,html,css,java,nginx,react,idea,bootstrap,vscode,mysql,linux,md,github)](https://skillicons.dev)
+
+
 Last Edited on: 2022-10-20
