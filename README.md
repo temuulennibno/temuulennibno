@@ -16,14 +16,17 @@ Temuulen Narmandakh</h1>
 - 🌱 I’m currently learning JavaScript && AWS
 
 - 📫 How to reach me **temuulen.n@pinecone.mn**
-
 ---
-<div style="display: flex; flex-direction: row; align-items: center">
+<p style="text-align: center">
 
 ![Temuulen's GitHub stats](https://github-readme-stats.vercel.app/api?username=temuulennibno&show_icons=true&theme=radical)
-
+  
+---
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=temuulennibno&hide_progress=false)](https://github.com/anuraghazra/github-readme-stats)
-
+  
+---
+  
 <h2 align="center">
 Technologies and Languages </h2>
 
@@ -31,4 +34,4 @@ Technologies and Languages </h2>
 
 
 Last Edited on: 2022-11-17
-</div>
+</p>
