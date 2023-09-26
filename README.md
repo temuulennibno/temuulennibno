@@ -32,6 +32,9 @@ Technologies and Languages </h2>
 
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,java,nginx,react,idea,bootstrap,vscode,mysql,linux,md,github,bash,vim,figma,jquery,tailwind,ts,nestjs,regex,sass)
 
+---
+
+[![Walktime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
 
 Last Edited on: 2022-11-17
 </p>
