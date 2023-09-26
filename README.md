@@ -35,8 +35,5 @@ Technologies and Languages </h2>
 ---
 
 
-[![Walktime stats](https://github-readme-stats.vercel.app/api/wakatime?username=temuulennibno)](https://github.com/anuraghazra/github-readme-stats)
-
-
 Last Edited on: 2022-11-17
 </p>
