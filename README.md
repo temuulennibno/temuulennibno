@@ -8,8 +8,6 @@ Temuulen Narmandakh</h1>
 
 - 🤝 Not available for freelancing.
 
-- 🌱 I’m currently learning JavaScript && AWS
-
 - 📫 How to reach me **temuulen.n@pinecone.mn**
 ---
 
