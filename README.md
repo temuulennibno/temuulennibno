@@ -2,11 +2,6 @@
 Temuulen Narmandakh</h1>
 <h3 align="center">A passionate Fullstack developer from Ulaanbaatar Mongolia 🇲🇳</h3>
 
-
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
-
 - 🔭 I’m currently working in <a href="https://pinecone.mn/" target="_blank"> Pinecone LLC</a>
 
 - 🌱 I’m currently Working on JavaScript projects.
