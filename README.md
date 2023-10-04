@@ -12,23 +12,16 @@ Temuulen Narmandakh</h1>
 
 - 📫 How to reach me **temuulen.n@pinecone.mn**
 ---
-<p style="text-align: center">
 
-![Temuulen's GitHub stats](https://github-readme-stats.vercel.app/api?username=temuulennibno&show_icons=true&theme=radical)
-  
----
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=temuulennibno&hide_progress=false)](https://github.com/anuraghazra/github-readme-stats)
-  
----
-  
-<h2 align="center">
+
+| ![Temuulen's GitHub stats](https://github-readme-stats.vercel.app/api?username=temuulennibno&show_icons=true&theme=radical)  | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=temuulennibno&hide_progress=false)](https://github.com/anuraghazra/github-readme-stats)  |
+|---|---|
+|  <h2 align="center">
 Technologies and Languages </h2>
-
-![My Skills](https://skillicons.dev/icons?i=js,html,css,java,nginx,react,idea,bootstrap,vscode,mysql,linux,md,github,bash,vim,figma,jquery,tailwind,ts,nestjs,regex,sass)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,java,nginx,react,idea,bootstrap,vscode,mysql,linux,md,github,bash,vim,figma,jquery,tailwind,ts,nestjs,regex,sass)  |
 
 ---
 
-
-Last Edited on: 2022-11-17
+<p style="text-align: center">
+Last Edited on: 2023-10-04
 </p>
