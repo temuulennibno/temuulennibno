@@ -16,7 +16,7 @@ Temuulen Narmandakh</h1>
 
 | ![Temuulen's GitHub stats](https://github-readme-stats.vercel.app/api?username=temuulennibno&show_icons=true&theme=radical)  | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=temuulennibno&hide_progress=false)](https://github.com/anuraghazra/github-readme-stats)  |
 |---|---|
-|  <td colspan=2> <h2 align="center">
+| <h2 align="center">
 Technologies and Languages </h2>
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,java,nginx,react,idea,bootstrap,vscode,mysql,linux,md,github,bash,vim,figma,jquery,tailwind,ts,nestjs,regex,sass)  |
 
