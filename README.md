@@ -16,7 +16,7 @@ Temuulen Narmandakh</h1>
 |---|---|
 | <h2 align="center">
 Technologies and Languages </h2>
-![My Skills](https://skillicons.dev/icons?i=js,html,css,java,nginx,react,idea,bootstrap,vscode,mysql,linux,md,github,bash,vim,figma,jquery,tailwind,ts,nestjs,regex,sass)  |
+![My Skills](https://skillicons.dev/icons?i=js,html,css,java,nginx,react,idea,bootstrap,vscode,mysql,linux,md,github,bash,vim,figma,jquery,tailwind,ts,nestjs,regex,sass,nextjs,prisma,nodejs,mongodb)  |
 
 ---
 
