@@ -1,25 +1,129 @@
-<h1 align="center">Hi 👋, I'm
-Temuulen Narmandakh</h1>
-<h3 align="center">A passionate Fullstack developer from Ulaanbaatar Mongolia 🇲🇳</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=22&duration=3200&pause=900&color=6E7781&center=true&vCenter=true&width=560&height=44&lines=Fullstack+developer+from+Ulaanbaatar;TypeScript+%C2%B7+Next.js+%C2%B7+Prisma+%C2%B7+PostgreSQL;I+ship+products%2C+not+just+features" alt="Fullstack developer from Ulaanbaatar" />
+</p>
 
-- 🔭 I’m currently working in <a href="https://pinecone.mn/" target="_blank"> Pinecone LLC</a>
+<h1 align="center">Temuulen Narmandakh</h1>
 
-- 🌱 I’m currently Working on JavaScript projects.
+<p align="center">
+  <a href="mailto:temkanibno@gmail.com">
+    <img src="https://img.shields.io/badge/Email-temkanibno%40gmail.com-24292f?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/temuulennibno">
+    <img src="https://img.shields.io/github/followers/temuulennibno?style=flat-square&label=Followers&labelColor=24292f&color=57606a&logo=github&logoColor=white" alt="GitHub followers" />
+  </a>
+  <img src="https://img.shields.io/badge/Open%20to-freelance%20%26%20contract-2f6f4e?style=flat-square" alt="Open to work" />
+  <img src="https://komarev.com/ghpvc/?username=temuulennibno&style=flat-square&label=Profile+views&color=57606a" alt="Profile views" />
+</p>
 
-- 🤝 Not available for freelancing.
-
-- 📫 How to reach me **temuulen.n@pinecone.mn**
 ---
 
+### About
 
-| ![Temuulen's GitHub stats](https://github-readme-stats.vercel.app/api?username=temuulennibno&show_icons=true&theme=radical)  | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=temuulennibno&hide_progress=false)](https://github.com/anuraghazra/github-readme-stats)  |
+- 💼 Independent fullstack developer, available for **freelance and contract work**
+- 🧱 I build and ship production web apps end to end: schema, API, UI, deploy, maintain
+- 🌏 Based in Ulaanbaatar, working with Mongolian and international clients
+- 🛠️ Day to day: **TypeScript · Next.js · Prisma · PostgreSQL**, deployed to Linux VPS and Vercel
+- 🇲🇳 Experienced with local integrations: **QPay** payments and **eBarimt** VAT receipts
+- 📫 Reach me at **temkanibno@gmail.com**
+
+---
+
+### Tech Stack
+
+**Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,cs,html,css,bash,md" alt="Languages" />
+</p>
+
+**Frontend**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,sass,bootstrap,vite,figma" alt="Frontend" />
+</p>
+
+Next.js App Router · React Server Components · Tailwind CSS · Radix UI / shadcn/ui · Zustand · TanStack Query · React Hook Form + Zod
+
+**Backend**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,graphql,prisma,express" alt="Backend" />
+</p>
+
+REST and GraphQL APIs · Apollo Federation and Gateway · NestJS services · Prisma ORM · auth with Clerk and NextAuth
+
+**Databases**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" alt="Databases" />
+</p>
+
+**Infra & Tooling**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,nginx,docker,cloudflare,vercel,aws,git,github,bun,vim,vscode" alt="Infra and tooling" />
+</p>
+
+Ubuntu VPS provisioning · Nginx reverse proxy · PM2 · Docker · GitHub Actions · Turborepo and Nx monorepos · Vitest
+
+**Also worked with**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=unity,java,jquery" alt="Other" />
+</p>
+
+---
+
+### What I've Built
+
+| Domain | What it involved |
 |---|---|
-| <h2 align="center">
-Technologies and Languages </h2>
-![My Skills](https://skillicons.dev/icons?i=js,html,css,java,nginx,react,idea,bootstrap,vscode,mysql,linux,md,github,bash,vim,figma,jquery,tailwind,ts,nestjs,regex,sass,nextjs,prisma,nodejs,mongodb)  |
+| 🎬 Cinema ticketing | Seat plans, showtime scheduling, booking flow, third party ticketing API integration |
+| 🛒 E-commerce | Product catalog, cart and checkout, QPay payments, eBarimt VAT receipts, order fulfillment |
+| 📊 CRM & sales tools | Multi tenant dashboards, reporting, role based access, bulk data import |
+| 🎓 EdTech platform | GraphQL federated services, content authoring, quizzes, progress tracking |
+| 🎮 Game development | Unity project in C# with a companion web front end |
 
 ---
 
-<p style="text-align: center">
-Last Edited on: 2023-10-04
+### GitHub Analytics
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=temuulennibno&theme=transparent" alt="Profile summary" width="98%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=temuulennibno&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Contribution streak" width="60%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=temuulennibno&theme=transparent" alt="Repos per language" width="41%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=temuulennibno&theme=transparent" alt="Most commit language" width="41%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=temuulennibno&theme=transparent" alt="Stats" width="41%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=temuulennibno&theme=transparent&utcOffset=8" alt="Productive time" width="41%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=temuulennibno&bg_color=00000000&color=6e7781&line=6e7781&point=8b949e&area=true&area_color=6e7781&hide_border=true&days=90" alt="Contribution activity graph" width="98%" />
+</p>
+
+<!--
+  The snake below is generated by .github/workflows/snake.yml and pushed to the `output` branch.
+  It stays broken until that workflow runs once (Actions tab -> "Generate contribution snake" -> Run workflow).
+-->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/temuulennibno/temuulennibno/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/temuulennibno/temuulennibno/output/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/temuulennibno/temuulennibno/output/github-snake.svg" alt="Contribution snake animation" width="98%" />
+  </picture>
+</p>
+
+---
+
+<p align="center">
+  <sub>Got a project in mind? Email me at <a href="mailto:temkanibno@gmail.com">temkanibno@gmail.com</a></sub>
 </p>
